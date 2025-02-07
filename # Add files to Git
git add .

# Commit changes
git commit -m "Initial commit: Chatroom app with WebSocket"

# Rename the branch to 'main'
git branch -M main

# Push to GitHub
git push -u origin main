@@ -1,4 +1,4 @@
-package com.example.chatapp;
+https://github.com/your-username/chatroom-app.gitpackage com.example.chatapp;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;

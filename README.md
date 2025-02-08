@@ -1,3 +1,4 @@
+https://github.com/firebase/snippets-android/blob/879beb277353217869503ee297b8aea9bc543b47/auth%2Fapp%2Fsrc%2Fmain%2Fjava%2Fcom%2Fgoogle%2Ffirebase%2Fquickstart%2Fauth%2FGoogleSignInActivity.java
 package com.example.chatapp;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;

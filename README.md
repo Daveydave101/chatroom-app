@@ -1,6 +1,40 @@
 c16c5d93-56fd-4489-ba15-503811ff3764@killercoda.com
 
-# firebase init hosting
+# firebase init hosting<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatroom App</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/sockjs-client@1.5.1/dist/sockjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/stompjs@2.3.3/lib/stomp.min.js"></script>
+</head>
+<body>
+    <div id="chat-app">
+        <div class="sidebar">
+            <h3>Rooms</h3>
+            <ul id="roomList"></ul>
+            <form id="createRoomForm">
+                <input type="text" id="roomNameInput" placeholder="Create a new room" required>
+                <button type="submit">Add Room</button>
+            </form>
+            <form id="deleteRoomForm">
+                <input type="text" id="deleteRoomNameInput" placeholder="Delete a room" required>
+                <button type="submit">Delete Room</button>
+            </form>
+        </div>
+        <div class="chat-container">
+            <div class="messages" id="messages"></div>
+            <div class="chat-input">
+                <input type="text" id="messageInput" placeholder="Type a message">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>https://nonebutfun-chat.firebaseapp.com/__/auth/handler
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

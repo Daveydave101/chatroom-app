@@ -3,3 +3,5 @@ kubectl get pods pod1
 kubectl get po pod1
 
 (Ctrl+Shift+P)
+
+# https://github.com/Microsoft/vscode-remote-try-node

@@ -1,4 +1,11 @@
-var socket = new WebSocket("wss://your-backend-url/websocket-endpoint");<dependencies>
+/chatroom-app
+├── index.html
+├── main.js
+├── styles.css
+├── assets/
+├── firebase.json
+├── .firebaserc
+└── package.json (optional, if using npm for dependencies)var socket = new WebSocket("wss://your-backend-url/websocket-endpoint");<dependencies>
     <!-- Spring Boot Web -->
     <dependency>
         <groupId>org.springframework.boot</groupId>

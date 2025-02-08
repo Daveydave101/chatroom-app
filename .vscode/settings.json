@@ -1,0 +1,13 @@
+{
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.excludeDirty": false,
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.navigationScope": "editor",
+    "workbench.editor.preferHistoryBasedLanguageDetection": true,
+    "workbench.editor.preventPinnedEditorClose": "never",
+    "workbench.editor.revealIfOpen": true
+}

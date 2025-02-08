@@ -145,3 +145,4 @@ public class ChatMessage {
 </dependencies>
 
 your-username/chatroom-app.git
+var socket = new WebSocket("wss://your-backend-url/websocket-endpoint");firebase init hostingfirebase init

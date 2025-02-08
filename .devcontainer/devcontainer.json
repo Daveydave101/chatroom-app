@@ -1,1 +1,5 @@
+#kubectl get pod pod1
+kubectl get pods pod1
+kubectl get po pod1
+
 (Ctrl+Shift+P)

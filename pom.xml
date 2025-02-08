@@ -1,4 +1,4 @@
-<dependencies>
+var socket = new WebSocket("wss://your-backend-url/websocket-endpoint");<dependencies>
     <!-- Spring Boot Web -->
     <dependency>
         <groupId>org.springframework.boot</groupId>

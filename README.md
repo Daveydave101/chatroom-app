@@ -96,7 +96,7 @@ public class RoomControllerTest {
         assertTrue(rooms.contains("Random"));
     }
 }
-
+npm create cloudflare@latest -- hello-ai
 
 
 

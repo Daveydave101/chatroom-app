@@ -1,6 +1,6 @@
-c16c5d93-56fd-4489-ba15-503811ff3764@killercoda.com
+`c16c5d93-56fd-4489-ba15-503811ff3764@killercoda.com
 
-# firebase init hosting<!DOCTYPE html>
+#hosting<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">

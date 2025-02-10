@@ -1,8 +1,8 @@
-![Screenshot_20250111_153106](https://github.com/user-attachments/assets/a428910f-43d8-4b38-bf9e-ccef359b477f)
+[Screenshot_20250111_153106][def]
 ![pexels-geometric-photography-186685971-13271915](https://github.com/user-attachments/assets/a1323142-e50b-489f-99fa-f641e7a8c2e9)
 c16c5d93-56fd-4489-ba15-503811ff3764@killercoda.com
 
-# firebase init hosting<!DOCTYPE html>
+hosting<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,12 +68,8 @@ public class RoomControllerTest {
     @Test
     public void testCreateRoom() {
         List<String> rooms = roomController.createRoom("Sports");
-        assertTrue(rooms.contains("Sports"));
-    }
-
-    @Test
-    public void testCreateRoomAlreadyExists() {
-        List<String> rooms = roomController.createRoom("General");
+`
+`st<String> rooms = roomController.createRoom("General");
         assertEquals(4, rooms.size()); // No new room should be added
     }
 
@@ -108,3 +104,6 @@ public class RoomControllerTest {
 
 
 // ...existing code...});    document.getElementById('deleteRoomNameInput').value = '';    stompClient.send("/app/deleteRoom", {}, roomName);    const roomName = document.getElementById('deleteRoomNameInput').value;    event.preventDefault();document.getElementById('deleteRoomForm').addEventListener('submit', function(event) {
+
+
+[def]: https://github.com/user-attachments/assets/a428910f-43d8-4b38-bf9e-ccef359b477f

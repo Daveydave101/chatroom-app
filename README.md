@@ -1,6 +1,7 @@
 `#gh repo clone buildkite-plugins/test-collector-buildkite-plugin```
 
 json
+>>>>>>> 32979c9817078f6444b881c79a33476a4cf48731
 `c16c5d93-56fd-4489-ba15-503811ff3764@killercoda.com
 
 ````

@@ -1,5 +1,6 @@
-        firebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_ITEM) {
+        "firebaseAnalytics.logEvent" "
+FirebaseAnalytics.Event.SELECT_ITEM {
             param(FirebaseAnalytics.Param.ITEM_ID, id)
-            param(FirebaseAnalytics.Param.ITEM_NAME, name)
-            param(FirebaseAnalytics.Param.CONTENT_TYPE, "image")
+            param(FirebaseAnalytics.Param.ITEM_NAME name)
+            param(FirebaseAnalytics.Param.CONTENT_TYPE"image
         }

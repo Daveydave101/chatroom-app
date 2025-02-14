@@ -7,7 +7,7 @@ sudo apt-get update && sudo apt-get dist-upgrade
 ├── assets/
 ├── firebase.json
 ├── .firebaserc
-└── package.json (optional, if using npm for dependencies)var socket = new WebSocket("wss://your-backend-url/websocket-endpoint");<dependencies>
+└── package.json (optional, if using npm for dependencies)varsocket=new WebSocket("wss://your-backend-url/websocket-endpoint");<dependencies>
     <!-- Spring Boot Web -->
     <dependency>
         <groupId>org.springframework.boot</groupId>

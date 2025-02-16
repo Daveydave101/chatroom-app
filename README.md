@@ -1,4 +1,4 @@
-`#gh repo clone buildkite-plugins/test-collector-buildkite-plugin```
+#gh repo clone buildkite-plugins/test-collector-buildkite-plugin"
 "835421b2-f6b8-432b-bf81-1c0500e5c32f" 
 json
 

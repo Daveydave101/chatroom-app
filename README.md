@@ -155,8 +155,8 @@ LTS
 Runner Image
 Image: ubuntu-24.04
 Version: 20250202.1.0
-Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20250202.1/images/ubuntu/Ubuntu2404-Readme.md
-Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20250202.1
+Included Software: <https://github.com/actions/runner-images/blob/ubuntu24/20250202.1/images/ubuntu/Ubuntu2404-Readme.md>
+Image Release: <https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20250202.1>
 Runner Image Provisioner
 2.0.422.1
 GITHUB_TOKEN Permissions
@@ -182,9 +182,10 @@ Download immutable action package 'actions/checkout@v4'
 Download immutable action package 'actions/setup-go@v5'
 Download action repository 'golangci/golangci-lint-action@v4' (SHA:d6238b002a20823d52840fda27e2d4891c5952dc)
 Complete job name: run (1.21.x)
-c16c5d93-56fd-4489-ba15-503811ff3764@killercoda.com
+<c16c5d93-56fd-4489-ba15-503811ff3764@killercoda.com>
 
 # firebase init hosting<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -234,9 +235,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 package com.example.chatapp;
 
-
-
-
 @SpringJUnitConfig
 public class RoomControllerTest {
 
@@ -281,12 +279,5 @@ public class RoomControllerTest {
     }
 }
 npm create cloudflare@latest -- hello-ai
-
-
-
-
-
-
-
 
 // ...existing code...});    document.getElementById('deleteRoomNameInput').value = '';    stompClient.send("/app/deleteRoom", {}, roomName);    const roomName = document.getElementById('deleteRoomNameInput').value;    event.preventDefault();document.getElementById('deleteRoomForm').addEventListener('submit', function(event)
